@@ -29,3 +29,7 @@
 # typescript
 **/*.tsbuildinfo
 **/next-env.d.ts
+
+
+# build foler for next
+.next/
